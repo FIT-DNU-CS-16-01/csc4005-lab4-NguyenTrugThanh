@@ -86,5 +86,6 @@ Nhận xét:
 
 ## 10. Link minh chứng
 
+- GitHub commit cuối: https://github.com/FIT-DNU-CS-16-01/csc4005-lab4-NguyenTrugThanh/commit/6925fb2
 - W&B run baseline: logmel_crnn_gru_baseline
 - W&B run mở rộng: logmel_crnn_bilstm_extension
